@@ -1,4 +1,7 @@
+package ru.netology.bonus.calculator;
+
 public class Main {
+
   public static long main(String[] args) {
     BonusService service = new BonusService();
 
